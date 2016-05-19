@@ -1,0 +1,150 @@
+Champion: alpah
+ID #: 1
+Other: 2
+Champion: beta
+ID #: 1
+Other: 2
+Champion: delta
+ID #: 1
+Other: 2
+Champion: kappa
+ID #: 1
+Other: 2
+Champion: omega
+ID #: 1
+Other: 2
+Champion: zea
+ID #: 1
+Other: 2
+Champion: zeta
+ID #: 1
+Other: 2
+Champion: zta
+ID #: 1
+Other: 2
+Champion: alpah
+ID #: 1
+Other: 2
+Champion: beta
+ID #: 1
+Other: 2
+Champion: delta
+ID #: 1
+Other: 2
+Champion: kappa
+ID #: 1
+Other: 2
+Champion: omega
+ID #: 1
+Other: 2
+Champion: zea
+ID #: 1
+Other: 2
+Champion: zeta
+ID #: 1
+Other: 2
+Champion: zta
+ID #: 1
+Other: 2
+Champion: alpah
+ID #: 1
+Other: 2
+Champion: beta
+ID #: 1
+Other: 2
+Champion: delta
+ID #: 1
+Other: 2
+Champion: kappa
+ID #: 1
+Other: 2
+Champion: omega
+ID #: 1
+Other: 2
+Champion: zea
+ID #: 1
+Other: 2
+Champion: zeta
+ID #: 1
+Other: 2
+Champion: zta
+ID #: 1
+Other: 2
+Champion: alpah
+ID #: 1
+Other: 2
+Champion: beta
+ID #: 1
+Other: 2
+Champion: delta
+ID #: 1
+Other: 2
+Champion: kappa
+ID #: 1
+Other: 2
+Champion: omega
+ID #: 1
+Other: 2
+Champion: zea
+ID #: 1
+Other: 2
+Champion: zeta
+ID #: 1
+Other: 2
+Champion: zta
+ID #: 1
+Other: 2
+Champion: alpah
+ID #: 1
+Other: 2
+Champion: beta
+ID #: 1
+Other: 2
+Champion: delta
+ID #: 1
+Other: 2
+Champion: kappa
+ID #: 1
+Other: 2
+Champion: omega
+ID #: 1
+Other: 2
+Champion: zea
+ID #: 1
+Other: 2
+Champion: zeta
+ID #: 1
+Other: 2
+Champion: zta
+ID #: 1
+Other: 2
+Champion: alpah
+ID #: 1
+Other: 2
+Champion: beta
+ID #: 1
+Other: 2
+Champion: delta
+ID #: 1
+Other: 2
+Champion: kappa
+ID #: 1
+Other: 2
+Champion: omega
+ID #: 1
+Other: 2
+Champion: zea
+ID #: 1
+Other: 2
+Champion: zeta
+ID #: 1
+Other: 2
+Champion: zta
+ID #: 1
+Other: 2
+Champion: alpah
+ID #: 1
+Other: 2
+Champion: alpah
+ID #: 1
+Other: 2
